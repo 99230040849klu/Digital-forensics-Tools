@@ -1,6 +1,6 @@
 
 Description:
-Here's a step-by-step guide on how to execute and analyze an email header:
+Here's a step-by-step guide on how to execute and analyze an email header
 1. Access the Email Header
 •	Gmail: Open the email, click the three dots (More) in the upper right corner, and select "Show original."
 •	Outlook: Open the email, click on "File," then "Properties," and find the "Internet headers" box.
